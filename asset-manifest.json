@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MARORDERSYS/static/css/main.6c0f7543.css",
+    "main.js": "/MARORDERSYS/static/js/main.bf88939e.js",
+    "static/js/453.b0cbd5c8.chunk.js": "/MARORDERSYS/static/js/453.b0cbd5c8.chunk.js",
+    "static/media/hamburger.jpg": "/MARORDERSYS/static/media/hamburger.c1bc4dfad7ec7dc6e729.jpg",
+    "index.html": "/MARORDERSYS/index.html",
+    "main.6c0f7543.css.map": "/MARORDERSYS/static/css/main.6c0f7543.css.map",
+    "main.bf88939e.js.map": "/MARORDERSYS/static/js/main.bf88939e.js.map",
+    "453.b0cbd5c8.chunk.js.map": "/MARORDERSYS/static/js/453.b0cbd5c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c0f7543.css",
+    "static/js/main.bf88939e.js"
+  ]
+}
